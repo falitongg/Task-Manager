@@ -1,5 +1,5 @@
 # Task Manager - Semester Project
-
+You can access the site using this link: http://zwa.toad.cz/~sokolant/Task%20Manager/
 ## 📄 Project Overview
 
 **Task Manager** is a web-based application designed for creating, managing, and organizing personal notes. Developed as a semester project, it demonstrates a full-stack implementation using native **PHP** without a relational database, relying instead on structured **JSON** files for data persistence and **Cookies** for temporary guest storage.
